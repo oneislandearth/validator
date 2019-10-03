@@ -15,8 +15,8 @@
     "prepublishOnly": "npm run build"
   },
   "devDependencies": {
-    "@oneisland/babler": "0.0.5",
-    "@oneisland/linter": "0.0.7",
+    "@oneisland/babler": "^0.0.5",
+    "@oneisland/linter": "^0.0.8",
     "ava": "^2.4.0"
   },
   "homepage": "https://github.com/oneislandearth/validator",
