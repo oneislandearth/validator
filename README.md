@@ -4,9 +4,16 @@
   </a>
 </p>
 
-***
+<p align="center">
+  <a href="https://greenkeeper.io" target="_blank">
+  <img src="https://badges.greenkeeper.io/oneislandearth/validator.svg"></a>
+  <a href="https://travis-ci.org" target="_blank"><img src="https://api.travis-ci.org/oneislandearth/validator.svg?branch=master"></a>
+  <a href="https://packagephobia.now.sh/result?p=@oneisland/validator" target="_blank"><img src="https://packagephobia.now.sh/badge?p=@oneisland/validator"></a>
+  <a href="https://snyk.io/vuln/search?q=@oneisland/validator&type=npm" target="_blank"><img src="https://img.shields.io/snyk/vulnerabilities/github/oneislandearth/validator.svg"></a>
+  <a href="https://www.npmjs.com/package/@oneisland/validator" target="_blank"><img src="https://img.shields.io/npm/l/@oneisland/validator.svg"></a>
+</p>
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/oneislandearth/validator.svg)](https://greenkeeper.io/)
+***
 
 A simple tool for validation and type checking of variables in JavaScript
 
