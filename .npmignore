@@ -4,4 +4,4 @@ tests
 .babelrc.js
 .eslint*
 .travis.yml
-.jsconfig.json
+jsconfig.json
