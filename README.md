@@ -6,6 +6,8 @@
 
 ***
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/oneislandearth/validator.svg)](https://greenkeeper.io/)
+
 A simple tool for validation and type checking of variables in JavaScript
 
 ## Installation
