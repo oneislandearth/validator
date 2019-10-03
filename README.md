@@ -10,6 +10,8 @@ A simple tool for validation and type checking of variables in JavaScript
 
 ## Installation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/oneislandearth/validator.svg)](https://greenkeeper.io/)
+
 [Validator](https://github.com/oneislandearth/validator) is available through the [npm registry](https://www.npmjs.com/package/@oneisland/validator):
 
 ```bash
