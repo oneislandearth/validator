@@ -1,0 +1,1 @@
+/media/data/OneIsland/Software/Tools/validator/node_modules/@oneisland/linter/resources/.eslintrc.js
