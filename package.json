@@ -1,7 +1,7 @@
 {
   "name": "@oneisland/validator",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple tool for validation and type checking of variables in JavaScript",
   "keywords": [
     "validator",
@@ -15,8 +15,8 @@
     "prepublishOnly": "npm run build"
   },
   "devDependencies": {
-    "@oneisland/babler": "^0.0.6",
-    "@oneisland/linter": "^0.0.8",
+    "@oneisland/babler": "^0.0.7",
+    "@oneisland/linter": "^0.0.9",
     "ava": "^2.4.0"
   },
   "homepage": "https://github.com/oneislandearth/validator",
@@ -30,5 +30,8 @@
   "contributors": [
     "Daniel Larkin <daniel@oneisland.io>"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "source-map-support": "^0.5.13"
+  }
 }
