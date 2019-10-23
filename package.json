@@ -1,7 +1,7 @@
 {
   "name": "@oneisland/validator",
   "private": false,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple tool for validation and type checking of variables in JavaScript",
   "keywords": [
     "validator",

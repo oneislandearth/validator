@@ -6,18 +6,6 @@ const isNumber = (value) => {
 
     // Check if the type is a 'number' or 'bigint'
     if (typeof (value) == 'number' || typeof (value) == 'bigint') return true;
-
-    // Try check for 'mathjs types'
-    try {
-
-      // Load attempt to load 'mathjs'
-      const { BigNumber } = require('mathjs');
-
-      // Check if the type is a BigNumber
-      if (value instanceof BigNumber) return true;
-    
-    // Do nothing with the error / ignore it
-    } catch (e) {}
   }
 
   // Return false as the type is not a number
